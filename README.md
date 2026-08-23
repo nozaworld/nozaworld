@@ -1,6 +1,10 @@
 <h1 align="center">Hi there! I'm Mitsuki Nozawa! 🖐️</h1>
 
-<h3 align="center">情報学部 コンピュータ科学科 B4</h3>
+<h3 align="center">情報学部 コンピュータ科学科 知能システム系 B4</h3>
+
+<p align="center">
+  <a href="https://m-nozawa-portfolio.vercel.app/">My portfolio</a>
+</p>
 
 ---
 
@@ -11,7 +15,7 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ### Certifications
-- 情報セキュリティマネジメント
+- 情報処理安全確保支援士
 - 応用情報技術者
 
 ---
@@ -21,6 +25,10 @@
   - 所属：森・小田研究室（Mori & Oda Lab），名古屋大学 （Nagoya University）
   - 期間：2026年4月-2027年3月
   - 分野：医療画像処理（Medical Image Processing）
+- 修士：
+  - 所属：出口研究室（Deguchi Lab），名古屋大学 （Nagoya University）
+  - 期間：2027年4月-2029年3月
+  - 分野：交通・環境画像処理（Traffic and Environmental Image Processing）
 
 ---
 
