@@ -15,7 +15,7 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ### Certifications
-- 情報処理安全確保支援士
+- 情報セキュリティマネジメント
 - 応用情報技術者
 
 ---
