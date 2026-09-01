@@ -3,7 +3,7 @@
 <h3 align="center">情報学部 コンピュータ科学科 知能システム系 B4</h3>
 
 <p align="center">
-  <a href="https://m-nozawa-portfolio.vercel.app/">My portfolio</a>
+  <a href="https://m-nozawa-portfolio.vercel.app/" target="_blank">My portfolio</a>
 </p>
 
 ---
