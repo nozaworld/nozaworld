@@ -25,11 +25,11 @@
 - 学部：
   - 所属：[森・小田研究室（Mori & Oda Lab）](http://www.suenaga.cse.nagoya-u.ac.jp/wiki/index.php)，名古屋大学 （Nagoya University）
   - 期間：2026年4月-2027年3月
-  - 分野：医療画像処理（Medical Image Processing）
+  - 分野：医療画像処理
 - 修士：
   - 所属：[出口研究室（Deguchi Lab）](https://www.vislab.is.i.nagoya-u.ac.jp/)，名古屋大学 （Nagoya University）
   - 期間：2027年4月-2029年3月
-  - 分野：交通・環境画像処理（Traffic and Environmental Image Processing）
+  - 分野：人・環境センシング
 ---
 
 ## Experience
